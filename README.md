@@ -4,8 +4,8 @@ Application for insert  company information
 
 # Getting Started
 
-git clone https://github.com/azanulkhairi/Front-Enf-d.git
+git clone https://github.com/azanulkhairi/Front-End.git
 
-cd Front-Enf-d
+cd Front-End
 
 npm start
