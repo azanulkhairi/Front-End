@@ -10,6 +10,9 @@ git clone https://github.com/azanulkhairi/Front-End.git
 $ npm install
 $ cd Front-End
 $ npm start
+
+open browser:
+localhost:8080
 ```
 
 
